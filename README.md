@@ -9,6 +9,9 @@ And there isn't any easy way to GC everything or terminating a running `<script>
 It's easy to disable all JavaScript on a site but that oftan requires you to reload the hole page.
 The site might not render at all cuz it depends on javascript to render the page.
 
-I wanted to have this as an easy [bookmarklet](javascript:import('https://xyz')) to hinder paywalls, anti-adblocker and anti-debugger and terminating some very annoying scroll behaviors on websites.
+I wanted to have this as an easy bookmarklet to hinder paywalls, anti-adblocker and anti-debugger and terminating some very annoying scroll behaviors on websites.
 
-Just save the link above to your bookmarklet
+Just save create a new bookmarklet and save it as:
+```js
+import('https://comming_soon')
+```
