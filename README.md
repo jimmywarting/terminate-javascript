@@ -13,5 +13,5 @@ I wanted to have this as an easy bookmarklet to hinder paywalls, anti-adblocker 
 
 Just save create a new bookmarklet and save it as:
 ```js
-import('https://comming_soon')
+javascript:import('https://comming_soon')
 ```
